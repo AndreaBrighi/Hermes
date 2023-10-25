@@ -15,3 +15,5 @@ In particolare, ogni partecipante può aggiungere ad una lista di idee, le mete 
 
 
 ## Goal finale del progetto
+Il goal posto per il completamento del progetto è quello di realizzare un'applicazione facile e intuitiva, per organizzare viaggi di gruppo e organizzare itinerari, in modo innovativo, creando uno strumento utilizzabile da utenti di ogni età.
+Il tempo massimo da dedicare allo sviluppo evolutivo del progetto è da attestarsi a circa 18 mesi, raggiungendo un ampio numero di utenti.
