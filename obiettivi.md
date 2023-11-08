@@ -32,6 +32,7 @@ Diamo ora un'organizzazione a livello di release in ogni iterazione. Seguendo la
 
 ## Release #1
 Per la prima release si considerano gli obiettivi fondamentali per l'utente, la gestione dei gruppi e dei trip.
+
 ### Obiettivi da implementare
 - Login e registrazione utente
 - Gestione profilo utente
@@ -44,6 +45,7 @@ Per la prima release si considerano gli obiettivi fondamentali per l'utente, la 
 - Integrazione con servizi di mappe e routing
 - Integrazione pubblicità
 - Inizio campagna pubblicitaria al cliente (B2C)
+
 ### Criteri di successo
 - Si prevede il rilascio entro 9 mesi dalla data di inizio sviluppo
 - Implementazione di tutti gli obiettivi posti
@@ -53,15 +55,18 @@ Per la prima release si considerano gli obiettivi fondamentali per l'utente, la 
 
 ## Release #2
 La seconda release si pone l'obiettivo di migliorare l'esperienza dell'utente ma allo stesso tempo aumentare gli introiti provenienti dall'applicazione.
+
 ### Pre-Condizioni
 - Raggiungimento di una community di utenti almeno pari a 10.000
 - Rientro economico per coprire le spese, con guadagni provenienti da pubblicità in-app e un positivo di 1.000 €
+
 ### Obiettivi da implementare
 - Aggiungi possibilità di suggerire attrazioni di varia natura (culturali, enogastronomici, divertimento...)
 - Organizzazione gerarchica in base alla presenza di sponsorizzazione e al relativo livello (piccola, media o grande sponsorizzazione)
 - Creazione di sottogruppi all'interno del medesimo gruppo di viaggio
 - Aumentare l'integrazione con servizi di mezzi pubblici almeno con altre 2 città europee
 - Iniziare campagna pubblicitaria orientata al business (B2B)
+
 ### Criteri di successo
 - Si prevede la consegna della release entro 6 mesi
 - Ottenere almeno 300 sponsorizzazioni in 5 mesi
