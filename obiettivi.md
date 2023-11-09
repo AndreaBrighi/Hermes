@@ -89,4 +89,4 @@ Con la terza release si vuole aggiungere ulteriori funzionalità lato utente, in
 - Un rating sui principali store di almeno 3.5 stelle su 5 (in scala 1-5) da mantenere a lungo termine, avviando un processo di maintenance del sistema e di supporto agli utenti
 
 # Pianificazione rilasci per release
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNQiVK_Y=/?moveToViewport=-1761,-1027,3336,1570&embedId=193554444629" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVNQiVK_Y=/?pres=1&frameId=3458764569417407057&embedId=877917960697" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
