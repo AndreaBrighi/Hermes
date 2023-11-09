@@ -57,7 +57,7 @@ Per la prima release si considerano gli obiettivi fondamentali per l'utente, la 
 La seconda release si pone l'obiettivo di migliorare l'esperienza dell'utente ma allo stesso tempo aumentare gli introiti provenienti dall'applicazione.
 
 ### Pre-Condizioni
-- Raggiungimento di una community di utenti almeno pari a 10.000
+- Raggiungimento di una community di utenti almeno pari a 10.000 nei primi 3 mesi
 - Rientro economico per coprire le spese, con guadagni provenienti da pubblicità in-app e un positivo di 1.000 €
 
 ### Obiettivi da implementare
@@ -69,9 +69,24 @@ La seconda release si pone l'obiettivo di migliorare l'esperienza dell'utente ma
 
 ### Criteri di successo
 - Si prevede la consegna della release entro 6 mesi
-- Ottenere almeno 300 sponsorizzazioni in 5 mesi
+- Ottenere almeno 300 sponsorizzazioni in 5 mesi dal rilascio della seconda release
 - Aumento di almeno altri 4.000 utenti entro i successivi 3 mesi partendo dalla consegna della seconda release oppure raggiungimento di 15.000 utenti totali entro i 3 mesi dal rilascio considerando anche gli utenti acquisiti in tutto l'arco di tempo di vita dell'applicazione dal rilascio della prima release
 
 ## Release #3
+Con la terza release si vuole aggiungere ulteriori funzionalità lato utente, in modo da facilitare le comunicazioni e organizzazione all'interno del gruppo di viaggio.
 
+### Pre-Condizioni
+- Raggiungimento di una community di utenti almeno pari a 20.000 dal rilascio della seconda release ed entro 3 mesi
+- Ottenere almeno 300 sponsorizzazioni in 3 mesi (con almeno 3 grandi sponsorizzazioni)
 
+### Obiettivi da implementare
+- Tracciabilità utenti e strumento di messaggistica studiato appositamente
+- Gesitone dei costi di spese singole/comuni dell'intero viaggio
+- Notifiche di eventi nei dintorni e nel periodo di permanenza
+
+### Criteri di successo
+- Si prevede il rilascio entro 6 mesi dalla data di inizio sviluppo
+- Un rating sui principali store di almeno 3.5 stelle su 5 (in scala 1-5) da mantenere a lungo termine, avviando un processo di maintenance del sistema e di supporto agli utenti
+
+# Pianificazione rilasci per release
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNQiVK_Y=/?moveToViewport=-1761,-1027,3336,1570&embedId=193554444629" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
