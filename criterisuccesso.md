@@ -1,7 +1,7 @@
 ---
 title: Criteri di successo
 layout: home
-has_children: false
+parent: Scoping
 nav_order: 3
 ---
 # Organizzazione delle release e relativi criteri di successo
@@ -58,7 +58,7 @@ Con la terza release si vuole aggiungere ulteriori funzionalità lato utente, in
 
 ### Obiettivi da implementare
 - Tracciabilità utenti e strumento di messaggistica studiato appositamente
-- Gesitone dei costi di spese singole/comuni dell'intero viaggio
+- Gestione dei costi di spese singole/comuni dell'intero viaggio
 - Notifiche di eventi nei dintorni e nel periodo di permanenza
 
 ### Criteri di successo

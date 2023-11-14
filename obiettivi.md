@@ -1,7 +1,7 @@
 ---
 title: Obiettivi
 layout: home
-has_children: false
+parent: Scoping
 nav_order: 2
 ---
 # Obiettivi
