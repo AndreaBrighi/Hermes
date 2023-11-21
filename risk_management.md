@@ -3,9 +3,6 @@ title: Risk Management
 parent: Scoping
 layout: home
 nav_order: 4
-callouts:
-  important-title:
-    color: blue
 ---
 # Rischi
 Per analizzare i rischi relativi al progetto, faremo riferimento alla seguente tabella Risk Matrix, che indica la probabilità (likelihood) che il rischio accada e l'eventuale impatto (impact) sul progetto che ne potrebbe conseguire.
@@ -27,7 +24,7 @@ Iniziamo dividendo i fattori di rischio in 4 categorie, ovvero di tipo:
 
 Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del progetto:
 
-{: .important-title }
+{: .highlight }
 > ## 
 >
 > <b> Descrizione: </b> 
@@ -42,7 +39,7 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 >
 > <b> Risk mitigation: </b> 
 
-{: .important-title }
+{: .highlight }
 > ## Costi elevati
 >
 > <b> Descrizione: </b> uno dei rischi a cui sarà necessario fare attenzione è il possibile sforamento del budget nel costo del personale e delle risorse impiegate nello sviluppo del progetto. Essendo una startup in avviamento, con un budget limitato, sarà fondamentale fare economy nelle prime fasi del progetto, fino alla prima release
@@ -59,7 +56,7 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 
 <!-------------------------------------------------------------------------------->
 
-{: .important-title }
+{: .highlight }
 > ## Sicurezza sui dati personali e sensibili
 >
 > <b> Descrizione: </b> data la natura dei flussi di dati generati e raccolti dal sistema sui vari utenti, il rischio è un'eventuale minaccia alla loro integrità e riservatezza da parte di esterni malintenzionati. Inoltre, sarà necessario applicare regolamenti europei e internazionali riguardanti la gestione della privacy (es. GDPR).
@@ -80,7 +77,7 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 
 <!-------------------------------------------------------------->
 
-{: .important-title }
+{: .highlight }
 > ## Difficoltà nell'utilizzo
 >
 > <b> Descrizione: </b> un rischio è l'eventualità di riscontrare un certo livello di difficoltà, da parte degli utenti, nell'utilizzo dell'applicazione mobile, essendo la natura dell'applicazione stessa molto orientata all'interazione condivisa con altri utenti, nonché l'accessibilità a un più grande bacino di utenti
@@ -96,7 +93,7 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 > <b> Risk mitigation: </b> analisi preventiva mediante mockup e focus group unito a experience prototyping per analizzare e discutere le scelte UI e UX e aumentare il livello di usabilità e accessibilità
 
 <!------------------------------------------------------------------------------>
-{: .important-title }
+{: .highlight }
 > ## Integrazione con sistemi esterni
 >
 > <b> Descrizione: </b> l'integrazione con eventuali sistemi esterni, come ad esempio l'accesso alle informazioni sui mezzi pubblici nelle grandi città, potrebbero portare a problematiche di livello tecnico ed esterno, in quanto l'integrazione prevede un adattamento a sistemi già esistenti
@@ -112,7 +109,7 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 > <b> Risk mitigation: </b> per mitigare questo tipo di rischi è necessario contattare direttamente i fornitori dei servizi e richiedere con anticipo documentazione e stipulare accordi di utilizzo
 
 <!-------------------------------------------------------------------------->
-{: .important-title }
+{: .highlight }
 > ## Technology selection
 >
 > <b> Descrizione: </b> un fondamentale step preliminare allo sviluppo del progetto consiste nell'analisi delle proposte tecnologiche presenti nel mercato, quali utilizzare per sviluppare il software in-house e quali da usare in outsourcing (linguaggi, framework, tools, servizi cloud). Una loro errata valutazione e selezione potrebbe portare a problematiche in fase di sviluppo e ritardare i tempi di consegna

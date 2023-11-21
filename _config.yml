@@ -9,4 +9,8 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-  
+
+callouts:
+  highlight:
+    title:
+    color: blue
