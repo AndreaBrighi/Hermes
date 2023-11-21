@@ -3,6 +3,9 @@ title: Risk Management
 parent: Scoping
 layout: home
 nav_order: 4
+callouts:
+  important-title:
+    color: blue
 ---
 # Rischi
 Per analizzare i rischi relativi al progetto, faremo riferimento alla seguente tabella Risk Matrix, che indica la probabilità (likelihood) che il rischio accada e l'eventuale impatto (impact) sul progetto che ne potrebbe conseguire.
