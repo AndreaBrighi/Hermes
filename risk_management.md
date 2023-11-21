@@ -93,6 +93,7 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 > <b> Risk mitigation: </b> analisi preventiva mediante mockup e focus group unito a experience prototyping per analizzare e discutere le scelte UI e UX e aumentare il livello di usabilità e accessibilità
 
 <!------------------------------------------------------------------------------>
+
 {: .highlight }
 > ## Integrazione con sistemi esterni
 >
@@ -109,6 +110,7 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 > <b> Risk mitigation: </b> per mitigare questo tipo di rischi è necessario contattare direttamente i fornitori dei servizi e richiedere con anticipo documentazione e stipulare accordi di utilizzo
 
 <!-------------------------------------------------------------------------->
+
 {: .highlight }
 > ## Technology selection
 >
