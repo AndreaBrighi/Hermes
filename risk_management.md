@@ -32,17 +32,25 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 <b> Score: </b> <hr>
 <b> Risk mitigation: </b>
 
-> ## Costi elevati
->> <b> Descrizione: </b> uno dei rischi a cui sarà necessario fare attenzione è il possibile sforamento del budget nel costo del personale e delle risorse impiegate nello sviluppo del progetto. Essendo una startup in avviamento, con un budget limitato, sarà fondamentale fare economy nelle prime fasi del progetto, fino alla prima release <hr>
-<b> Classificazione: </b> ORG - PM <hr>
-<b> Likelihood: </b> 3 <hr>
-<b> Impact: </b> 4 <hr>
-<b> Score: </b> High risk <hr>
-<b> Risk mitigation: </b> una slow start per quanto riguarda le risorse umane, preferendo un graduale incremento dell'organico, cercando, per un breve intervallo di tempo iniziale, tirocinanti o figure da formare in pro bono. Per quanto riguarda le risorse computazionali necessarie, esse non verranno allocate se non al momento del bisogno, e sempre facendo attenzione alla disponibilità economica.
+{: .important-title }
+> Costi elevati
+>
+> <b> Descrizione: </b> uno dei rischi a cui sarà necessario fare attenzione è il possibile sforamento del budget nel costo del personale e delle risorse impiegate nello sviluppo del progetto. Essendo una startup in avviamento, con un budget limitato, sarà fondamentale fare economy nelle prime fasi del progetto, fino alla prima release
+>
+> <b> Classificazione: </b> ORG - PM
+>
+> <b> Likelihood: </b> 3
+>
+> <b> Impact: </b> 4
+>
+> <b> Score: </b> High risk
+>
+> <b> Risk mitigation: </b> una slow start per quanto riguarda le risorse umane, preferendo un graduale incremento dell'organico, cercando, per un breve intervallo di tempo iniziale, tirocinanti o figure da formare in pro bono. Per quanto riguarda le risorse computazionali necessarie, esse non verranno allocate se non al momento del bisogno, e sempre facendo attenzione alla disponibilità economica.
 
 > ## Sicurezza sui dati personali e sensibili
 >> <b> Descrizione: </b> data la natura dei flussi di dati generati e raccolti dal sistema sui vari utenti, il rischio è un'eventuale minaccia alla loro integrità e riservatezza da parte di esterni malintenzionati. Inoltre, sarà necessario applicare regolamenti europei e internazionali riguardanti la gestione della privacy (es. GDPR).<hr>
-<b> Classificazione: </b> TEC - EXT <hr>
+>> <b> Classificazione: </b> TEC - EXT
+>> 
 <b> Likelihood: </b> 3 <hr>
 <b> Impact: </b> 3 <hr>
 <b> Score: </b> Medium High risk <hr>
