@@ -70,11 +70,57 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 > <b> Score: </b> Medium High risk
 >
 > <b> Risk mitigation: </b> 
->> - applicazione delle normative sull'applicazione
->> - gestione esclusivamente dei dati necessari
->> - criptazione e anonimizzazione dei dati raccolti
->> - ridondanza e backup dei dati per evitare eventuali ransomware e similari
+> - applicazione delle normative sull'applicazione
+> - gestione esclusivamente dei dati necessari
+> - criptazione e anonimizzazione dei dati raccolti
+> - ridondanza e backup dei dati per evitare eventuali ransomware e similari
 
+<!-------------------------------------------------------------->
 
+{: .important-title }
+> ## Difficoltà nell'utilizzo
+>
+> <b> Descrizione: </b> un rischio è l'eventualità di riscontrare un certo livello di difficoltà, da parte degli utenti, nell'utilizzo dell'applicazione mobile, essendo la natura dell'applicazione stessa molto orientata all'interazione condivisa con altri utenti, nonché l'accessibilità a un più grande bacino di utenti
+>
+> <b> Classificazione: </b> TEC
+>
+> <b> Likelihood: </b> 2
+>
+> <b> Impact: </b> 2
+>
+> <b> Score: </b> Medium risk
+>
+> <b> Risk mitigation: </b> analisi preventiva mediante mockup e focus group unito a experience prototyping per analizzare e discutere le scelte UI e UX e aumentare il livello di usabilità e accessibilità
 
+<!------------------------------------------------------------------------------>
+{: .important-title }
+> ## Integrazione con sistemi esterni
+>
+> <b> Descrizione: </b> l'integrazione con eventuali sistemi esterni, come ad esempio l'accesso alle informazioni sui mezzi pubblici nelle grandi città, potrebbero portare a problematiche di livello tecnico ed esterno, in quanto l'integrazione prevede un adattamento a sistemi già esistenti
+>
+> <b> Classificazione: </b> TEC - EXT
+>
+> <b> Likelihood: </b> 2
+>
+> <b> Impact: </b> 2
+>
+> <b> Score: </b> Medium risk
+>
+> <b> Risk mitigation: </b> per mitigare questo tipo di rischi è necessario contattare direttamente i fornitori dei servizi e richiedere con anticipo documentazione e stipulare accordi di utilizzo
+
+<!-------------------------------------------------------------------------->
+{: .important-title }
+> ## Technology selection
+>
+> <b> Descrizione: </b> un fondamentale step preliminare allo sviluppo del progetto consiste nell'analisi delle proposte tecnologiche presenti nel mercato, quali utilizzare per sviluppare il software in-house e quali da usare in outsourcing (linguaggi, framework, tools, servizi cloud). Una loro errata valutazione e selezione potrebbe portare a problematiche in fase di sviluppo e ritardare i tempi di consegna
+>
+> <b> Classificazione: </b> TEC
+>
+> <b> Likelihood: </b> 1
+>
+> <b> Impact: </b> 2
+>
+> <b> Score: </b> Low risk
+>
+> <b> Risk mitigation: </b> un semplice modo per mitigare questa problematica in principio consiste nell'effettuare un'analisi preventiva dei prodotti disponibili nel mercato, le conoscenze presenti all'interno del team, necessità ipotizzate e budget disponibile
 
