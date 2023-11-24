@@ -75,6 +75,23 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 > - criptazione e anonimizzazione dei dati raccolti
 > - ridondanza e backup dei dati per evitare eventuali ransomware e similari
 
+<!------------------------------------------------------------------------------------->
+
+{: .mediumhighrisk }
+> ## Insufficenza di sponsorizzazioni o finanziamenti e guadagno tramite pubblicità
+>
+> <b> Descrizione: </b> la problematica è quella di non trovare una giusta visibilità nel mercato e lo stesso interesse verso il sistema sviluppato, rischiando di non trovare sponsorizzazioni o finanziamenti tali da permettere sviluppi futuri al progetto. Unito a questo c'è il rischio di non guadagnare a sufficenza da acquisti in app o pubblicità.
+>
+> <b> Classificazione: </b> EXT
+>
+> <b> Likelihood: </b> 2
+>
+> <b> Impact: </b> 4
+>
+> <b> Score: </b> Medium High risk
+>
+> <b> Risk mitigation: </b> l'unica mitigazione possibile individuata è il potenziamento del settore marketing in una fase avanzata del progetto, specialmente in una fase stabile per la startup, altrimenti si ferma il progetto per evitare di entrare in perdita economica
+
 <!-------------------------------------------------------------->
 
 {: .mediumrisk }
@@ -109,23 +126,6 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 >
 > <b> Risk mitigation: </b> per mitigare questo tipo di rischi è necessario contattare direttamente i fornitori dei servizi e richiedere con anticipo documentazione e stipulare accordi di utilizzo
 
-<!-------------------------------------------------------------------------->
-
-{: .lowrisk }
-> ## Technology selection
->
-> <b> Descrizione: </b> un fondamentale step preliminare allo sviluppo del progetto consiste nell'analisi delle proposte tecnologiche presenti nel mercato, quali utilizzare per sviluppare il software in-house e quali da usare in outsourcing (linguaggi, framework, tools, servizi cloud). Una loro errata valutazione e selezione potrebbe portare a problematiche in fase di sviluppo e ritardare i tempi di consegna
->
-> <b> Classificazione: </b> TEC
->
-> <b> Likelihood: </b> 1
->
-> <b> Impact: </b> 2
->
-> <b> Score: </b> Low risk
->
-> <b> Risk mitigation: </b> un semplice modo per mitigare questa problematica in principio consiste nell'effettuare un'analisi preventiva dei prodotti disponibili nel mercato, le conoscenze presenti all'interno del team, necessità ipotizzate e budget disponibile
-
 <!----------------------------------------------------------------------------------->
 
 {: .mediumrisk }
@@ -145,6 +145,23 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 
 <!-------------------------------------------------------------------------------->
 
+{: .mediumrisk }
+> ## Progetto che non risponde correttamente alle specifiche
+>
+> <b> Descrizione: </b> il rischio è che in una fase inoltrata dello sviluppo del sistema, esso potrebbe non soddisfare correttamente le specifiche definite in principio o le aspettative degli utenti sul sistema finale, sulla base delle funzionalità dichiarate in fase di marketing e promozione.
+>
+> <b> Classificazione: </b> TEC
+>
+> <b> Likelihood: </b> 1
+>
+> <b> Impact: </b> 3
+>
+> <b> Score: </b> Medium risk
+>
+> <b> Risk mitigation: </b> sicuramente un approccio Agile con Sprint Review di gruppo con gli utenti potrebbe tornare utile, sfruttando lo sviluppo iterativo di user stories e verifiche continuative con gli utenti o con gli alti membri del team.
+
+<!-------------------------------------------------------------------------->
+
 {: .lowrisk }
 > ## Introduzione di bug nascosti o problemi di UX
 >
@@ -162,17 +179,19 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 
 <!-------------------------------------------------------------------------->
 
-{: .mediumrisk }
-> ## Progetto che non risponde correttamente alle specifiche
+{: .lowrisk }
+> ## Technology selection
 >
-> <b> Descrizione: </b> il rischio è che in una fase inoltrata dello sviluppo del sistema, esso potrebbe non soddisfare correttamente le specifiche definite in principio o le aspettative degli utenti sul sistema finale, sulla base delle funzionalità dichiarate in fase di marketing e promozione.
+> <b> Descrizione: </b> un fondamentale step preliminare allo sviluppo del progetto consiste nell'analisi delle proposte tecnologiche presenti nel mercato, quali utilizzare per sviluppare il software in-house e quali da usare in outsourcing (linguaggi, framework, tools, servizi cloud). Una loro errata valutazione e selezione potrebbe portare a problematiche in fase di sviluppo e ritardare i tempi di consegna
 >
 > <b> Classificazione: </b> TEC
 >
 > <b> Likelihood: </b> 1
 >
-> <b> Impact: </b> 3
+> <b> Impact: </b> 2
 >
-> <b> Score: </b> Medium risk
+> <b> Score: </b> Low risk
 >
-> <b> Risk mitigation: </b> sicuramente un approccio Agile con Sprint Review di gruppo con gli utenti potrebbe tornare utile, sfruttando lo sviluppo iterativo di user stories e verifiche continuative con gli utenti o con gli alti membri del team.
+> <b> Risk mitigation: </b> un semplice modo per mitigare questa problematica in principio consiste nell'effettuare un'analisi preventiva dei prodotti disponibili nel mercato, le conoscenze presenti all'interno del team, necessità ipotizzate e budget disponibile
+
+<!-------------------------------------------------------------------------->
