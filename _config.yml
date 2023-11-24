@@ -11,6 +11,15 @@ kramdown:
   syntax_highlighter: rouge
 
 callouts:
-  highlight:
+  highrisk:
     title:
-    color: blue
+    color: red
+  mediumhighrisk:
+    title:
+    color: orange
+  mediumrisk:
+    title:
+    color: yellow
+  lowrisk:
+    title:
+    color: green

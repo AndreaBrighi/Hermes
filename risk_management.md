@@ -39,7 +39,7 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 >
 > <b> Risk mitigation: </b> 
 
-{: .highlight }
+{: .highrisk }
 > ## Costi elevati
 >
 > <b> Descrizione: </b> uno dei rischi a cui sarà necessario fare attenzione è il possibile sforamento del budget nel costo del personale e delle risorse impiegate nello sviluppo del progetto. Essendo una startup in avviamento, con un budget limitato, sarà fondamentale fare economy nelle prime fasi del progetto, fino alla prima release
@@ -56,7 +56,7 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 
 <!-------------------------------------------------------------------------------->
 
-{: .highlight }
+{: .mediumhighrisk }
 > ## Sicurezza sui dati personali e sensibili
 >
 > <b> Descrizione: </b> data la natura dei flussi di dati generati e raccolti dal sistema sui vari utenti, il rischio è un'eventuale minaccia alla loro integrità e riservatezza da parte di esterni malintenzionati. Inoltre, sarà necessario applicare regolamenti europei e internazionali riguardanti la gestione della privacy (es. GDPR).
@@ -77,7 +77,7 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 
 <!-------------------------------------------------------------->
 
-{: .highlight }
+{: .mediumrisk }
 > ## Difficoltà nell'utilizzo
 >
 > <b> Descrizione: </b> un rischio è l'eventualità di riscontrare un certo livello di difficoltà, da parte degli utenti, nell'utilizzo dell'applicazione mobile, essendo la natura dell'applicazione stessa molto orientata all'interazione condivisa con altri utenti, nonché l'accessibilità a un più grande bacino di utenti
@@ -94,7 +94,7 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 
 <!------------------------------------------------------------------------------>
 
-{: .highlight }
+{: .mediumrisk }
 > ## Integrazione con sistemi esterni
 >
 > <b> Descrizione: </b> l'integrazione con eventuali sistemi esterni, come ad esempio l'accesso alle informazioni sui mezzi pubblici nelle grandi città, potrebbero portare a problematiche di livello tecnico ed esterno, in quanto l'integrazione prevede un adattamento a sistemi già esistenti
@@ -111,7 +111,7 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 
 <!-------------------------------------------------------------------------->
 
-{: .highlight }
+{: .lowrisk }
 > ## Technology selection
 >
 > <b> Descrizione: </b> un fondamentale step preliminare allo sviluppo del progetto consiste nell'analisi delle proposte tecnologiche presenti nel mercato, quali utilizzare per sviluppare il software in-house e quali da usare in outsourcing (linguaggi, framework, tools, servizi cloud). Una loro errata valutazione e selezione potrebbe portare a problematiche in fase di sviluppo e ritardare i tempi di consegna
@@ -126,3 +126,53 @@ Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del
 >
 > <b> Risk mitigation: </b> un semplice modo per mitigare questa problematica in principio consiste nell'effettuare un'analisi preventiva dei prodotti disponibili nel mercato, le conoscenze presenti all'interno del team, necessità ipotizzate e budget disponibile
 
+<!----------------------------------------------------------------------------------->
+
+{: .mediumrisk }
+> ## Ritardi nelle fasi progettuali e di sviluppo
+>
+> <b> Descrizione: </b> da tenere in considerazione è il rischio di non rispettare le scadenze degli obiettivi intermedi e di release, che potrebbero portare a un ritardo complessivo nello sviluppo e conseguentemente nei rilasci, impattando anche sul costo di implementazione e organizzazione interna del team (riduzione motivazione e conseguentemente livello di produttività).
+>
+> <b> Classificazione: </b> PM
+>
+> <b> Likelihood: </b> 2
+>
+> <b> Impact: </b> 2
+>
+> <b> Score: </b> Medium risk
+>
+> <b> Risk mitigation: </b> effettuare un buon planning nelle primissime fasi del progetto, mettendo in gioco le voci di ciascun membro del team, dai ruoli di management ai ruoli più tecnici, mediante stime il più accurate possibile (basate sull'esperienza dei membri). Tramite Product Backlog, inoltre, si potrebbe controllare al termine di ogni sprint il lavoro eseguito e stimolare discussioni collettive tramite sprint review.
+
+<!-------------------------------------------------------------------------------->
+
+{: .lowrisk }
+> ## Introduzione di bug nascosti o problemi di UX
+>
+> <b> Descrizione: </b> essendo un progetto informatico e tecnologico, con l'impiego di diverse tecnologie, è facile incorrere nell'introduzione di bug o problemi di UX per l'utente, cosa che potrebbe causare ritardi nei rilasci e lavoro extra per sistemare gli errori introdotti nello sviluppo.
+>
+> <b> Classificazione: </b> TEC
+>
+> <b> Likelihood: </b> 2
+>
+> <b> Impact: </b> 1
+>
+> <b> Score: </b> Low risk
+>
+> <b> Risk mitigation: </b> un modo per evitare la proliferazione di bug e specifiche UX non conformi è l'adozione di un approccio Test Driven Development, in quanto, non avendo nella prima fase di sviluppo Group Test di utenti, potrebbero verificarsi lo sviluppo di comportamenti non attesi o debiti tecnici trascurati. Inoltre, sarebbe utile disaccoppiare la logica applicativa dalle interfacce utente di input/output e l'integrazione con altri sistemi, sfruttando design architetturali noti.
+
+<!-------------------------------------------------------------------------->
+
+{: .mediumrisk }
+> ## Progetto che non risponde correttamente alle specifiche
+>
+> <b> Descrizione: </b> il rischio è che in una fase inoltrata dello sviluppo del sistema, esso potrebbe non soddisfare correttamente le specifiche definite in principio o le aspettative degli utenti sul sistema finale, sulla base delle funzionalità dichiarate in fase di marketing e promozione.
+>
+> <b> Classificazione: </b> TEC
+>
+> <b> Likelihood: </b> 1
+>
+> <b> Impact: </b> 3
+>
+> <b> Score: </b> Medium risk
+>
+> <b> Risk mitigation: </b> sicuramente un approccio Agile con Sprint Review di gruppo con gli utenti potrebbe tornare utile, sfruttando lo sviluppo iterativo di user stories e verifiche continuative con gli utenti o con gli alti membri del team.
