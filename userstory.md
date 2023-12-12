@@ -98,4 +98,4 @@ Definiamo di seguito una serie di User Story utili a catturare meglio alcuni req
 >> - <b> Benefit: </b> miglior ascolto delle necessità degli utenti, delle problematiche, reattività in caso di guasti o calo di posizione e importanza nel mercato, data analysis
 > - <b> CoS: </b> dashboard e cruscotti lato amministrazione per analizzare tutti gli aspetti di interesse; l'utente non deve sentirsi "spiato", ma ascoltato in modo il più anonimo possibile, se non tramite richieste di supporto esplicite
 
-<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVNFH3fUg=/?pres=1&frameId=3458764572978791171&embedId=321635710867" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNFH3fUg=/?moveToViewport=-1417,-347,2622,883&embedId=909947665965" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
