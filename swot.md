@@ -1,7 +1,7 @@
 ---
 title: SWOT Analysis
+parent: Scoping
 layout: home
-has_children: false
 nav_order: 5
 ---
 # Swot Analysis
