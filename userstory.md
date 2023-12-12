@@ -5,7 +5,7 @@ layout: home
 nav_order: 6
 ---
 # Definizione User Stories
-Definiamo di seguito le 
+Definiamo di seguito una serie di User Story utili a catturare meglio alcuni requisiti, analizzati, ad esempio, dal punto di vista dell'utente che interagisce con il sistema.
 
 ## Name: registrazione utente
 > - <b> Definizione: </b> una persona si vuole registrare nella piattaforma, creando un nuovo utente nel sistema
