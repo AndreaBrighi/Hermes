@@ -97,3 +97,5 @@ Definiamo di seguito una serie di User Story utili a catturare meglio alcuni req
 >> - <b> Action: </b> analizzare dati e andamenti relativi all'applicazione e alla sua community
 >> - <b> Benefit: </b> miglior ascolto delle necessità degli utenti, delle problematiche, reattività in caso di guasti o calo di posizione e importanza nel mercato, data analysis
 > - <b> CoS: </b> dashboard e cruscotti lato amministrazione per analizzare tutti gli aspetti di interesse; l'utente non deve sentirsi "spiato", ma ascoltato in modo il più anonimo possibile, se non tramite richieste di supporto esplicite
+
+<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVNFH3fUg=/?pres=1&frameId=3458764572973380436&embedId=827472436649" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
