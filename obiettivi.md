@@ -26,3 +26,6 @@ Per quanto riguarda gli obiettivi secondari, ovvero quelli non funzionali:
 Oltre all'obiettivo principale troviamo quelli di natura economica:
 - Mantenere un limite di costi di realizzazione del sistema
 - Garantire entrate economiche diversificate provenienti dall'utilizzo dell'applicazione
+
+Per quanto riguarda obiettivi secondari rilevanti ma non fondamentali, troviamo i seguenti:
+- Attenzione al consumo di batteria nell'utilizzo quotidiano dell'app

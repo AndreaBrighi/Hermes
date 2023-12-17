@@ -24,21 +24,6 @@ Iniziamo dividendo i fattori di rischio in 4 categorie, ovvero di tipo:
 
 Elenchiamo di seguito la valutazione dei rischi identificati per lo sviluppo del progetto:
 
-{: .highlight }
-> ## 
->
-> <b> Descrizione: </b> 
->
-> <b> Classificazione: </b> 
->
-> <b> Likelihood: </b> 
->
-> <b> Impact: </b> 
->
-> <b> Score: </b> 
->
-> <b> Risk mitigation: </b> 
-
 {: .highrisk }
 > ## Costi elevati
 >
