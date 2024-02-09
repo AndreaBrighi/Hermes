@@ -1,5 +1,5 @@
 ---
-title: Approccio di analisi
+title: Approccio
 layout: home
 has_children: false
 nav_order: 1

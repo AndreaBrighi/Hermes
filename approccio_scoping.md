@@ -1,7 +1,7 @@
 ---
 title: Approccio Scoping
 layout: home
-parent: Approccio di analisi
+parent: Approccio
 nav_order: 1
 ---
 # Descrizione dell'approccio utilizzato per la fase di Scoping
