@@ -26,3 +26,20 @@ In quanto abbiamo scelto di adottare un approccio Agile, la metodologia di indiv
 - User Story: la user story identificata, che può essere riferita ad un requisito o un bisogno di un utente (fruitore del sistema o qualsiasi altro stakeholder legato ad esso)
 - Task: piccoli elementi che compongono una user story, che rappresenta un diario di bordo legato alla precisa storia, per definire quando essa può essere considerata come <it> Done </it>
 In questo modo riusciamo a definire, per ogni requisito, il ruolo di chi si impersona nella storia, un'azione e un beneficio garantito dal completamento di una determinata user story. Infine, troviamo una Condition of Satisfaction, ovvero come si ritiene completata una determinata user story.
+
+Per quanto riguarda l'analisi SWOT, ovvero uno studio ad alto livello delle caratteristiche del progetto quali punti di forza o debolezze, abbiamo mantenuto lo schema originale dividendo in fattori esterni (opportunità e minacce) e fattori interni (punto di forza e debolezze). Tra queste spiccano per numero i punti di forza, data il carattere innovativo del progetto, ma anche le debolezze in quanto si parte con una startup senza esperienza nel settore e che non può svolgere attività troppo commerciali, non avendo abbastanza forza per aprire collaborazioni.
+Rimangono più limitate le opportunità in quanto si fa riferimento a diverse municipalità e nazioni, ognuno con il proprio sistema di gestione dei servizi cittadini; stessa cosa per quanto riguarda le minacce, ovvero i fattori esterni che potrebbero incidere negativamente sul progetto, in quanto l'assenza di una primaria campagna pubblicitaria e la bassa monetizzazione iniziale potrebbero incidere in modo negativo sul budget disponibile e quindi sull'avanzamento del progetto.
+
+Per analizzare gli elementi chiave del progetto, come ad esempio le attività principali, i possibili partner a cui mirare, costi e così via sono stati schematizzati sfruttando il cosiddetto template <b> Business Model Canvas </b>. Si noti che:
+- Essendo la startup appena nata, tra le attività chiave si è scelto di focalizzare l'attenzione sull'applicazione delle più moderne e innovative tecniche e processi di sviluppo software, quali utilizzo del cloud, microservizi scalabili, DevOps e particolare attenzione al livello di soddisfazione e richieste degli utenti utilizzatori
+- Per quanto riguarda la gestione dei costi, si è deciso di minimizzare inizialmente gli stipendi minimizzando il personale necessario, quindi ritardando l'avanzamento del progetto per poter devolvere il risparmio nei costi iniziali di infrastruttura e sviluppo
+
+## Conseguenze dell'approccio Agile
+Considerando l'aver scelto l'utilizzo dell'approccio Agile per l'analisi e lo sviluppo del progetto, possiamo catalogare il tipo di progetto come <i> Agile Project Management </i>, in quanto essendo la natura del progetto stesso molto orientata al soddisfacimento delle richieste della community di utilizzatori, è ben noto il goal finale ma non la soluzione finale da implementare. Questo può appunto portare al cambiamento di alcuni componenti e requisiti in base ai feedback degli utenti, sfruttando le <i> release attuali </i> per ottenere suggerimenti per cambiare il processo di sviluppo delle successive.
+<center>
+<img src="img/project_type.png"/>
+</center>
+Questo incide sul ciclo di vita del progetto, il cosiddetto PM Lifecycle, il quale si avvicina più al modello di tipo adattivo, con l'unica differenza che con la fase di planning possiamo cambiare una parte dello scope per aggiungere le richieste degli utenti che non erano state anticipate nella release attuale. Si noti che sono ammessi esclusivamente i cambiamenti dello scope che sono a basso impatto sul resto dell'analisi già effettuata: se l'impatto è rilevante, è necessario creare un nuovo progetto sulla base di quella attuale.
+<center>
+<img src="img/pm_lc_model.PNG"/>
+</center>
