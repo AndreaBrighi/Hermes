@@ -24,8 +24,6 @@ In quanto abbiamo scelto di adottare un approccio Agile, la metodologia di indiv
 - Theme (tema): una collezione di storie suddivise per categoria
 - Epiche: una epica si riferisce ad una cosiddetta Big Story, un requisito troppo grande per essere sviluppato in un singolo sprint, per questo vengono suddivise in deliverables più piccoli, ovvero le singole user stories
 - User Story: la user story identificata, che può essere riferita ad un requisito o un bisogno di un utente (fruitore del sistema o qualsiasi altro stakeholder legato ad esso)
-- Task: piccoli elementi che compongono una user story, che rappresenta un diario di bordo legato alla precisa storia, per definire quando essa può essere considerata come <it> Done </it>
-In questo modo riusciamo a definire, per ogni requisito, il ruolo di chi si impersona nella storia, un'azione e un beneficio garantito dal completamento di una determinata user story. Infine, troviamo una Condition of Satisfaction, ovvero come si ritiene completata una determinata user story.
 
 Per quanto riguarda l'analisi SWOT, ovvero uno studio ad alto livello delle caratteristiche del progetto quali punti di forza o debolezze, abbiamo mantenuto lo schema originale dividendo in fattori esterni (opportunità e minacce) e fattori interni (punto di forza e debolezze). Tra queste spiccano per numero i punti di forza, data il carattere innovativo del progetto, ma anche le debolezze in quanto si parte con una startup senza esperienza nel settore e che non può svolgere attività troppo commerciali, non avendo abbastanza forza per aprire collaborazioni.
 Rimangono più limitate le opportunità in quanto si fa riferimento a diverse municipalità e nazioni, ognuno con il proprio sistema di gestione dei servizi cittadini; stessa cosa per quanto riguarda le minacce, ovvero i fattori esterni che potrebbero incidere negativamente sul progetto, in quanto l'assenza di una primaria campagna pubblicitaria e la bassa monetizzazione iniziale potrebbero incidere in modo negativo sul budget disponibile e quindi sull'avanzamento del progetto.
@@ -43,3 +41,7 @@ Questo incide sul ciclo di vita del progetto, il cosiddetto PM Lifecycle, il qua
 <center>
 <img src="img/pm_lc_model.PNG"/>
 </center>
+
+## Chiusura della fase di scoping
+Infine, si è deciso di chiudere la fase di scoping usando l'attività di eventstorming, ovvero una riunione di brainstorming collaborativa, per definire il business domain partendo dalle User Story definite. Questo permette di usare il linguaggio specifico del dominio, definire gli attori che in esso svolgono operazioni, sistemi e opportunità (in parte già anticipati nelle User Story sotto forma di ruoli, azione e benefici).
+
