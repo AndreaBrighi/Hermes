@@ -1,8 +1,8 @@
 ---
-title: SCRUM
+title: VBS
 layout: home
 parent: Planning
-nav_order: 1
+nav_order: 2
 ---
 
 # Value Breakdown Structure
