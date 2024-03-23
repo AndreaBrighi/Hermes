@@ -57,7 +57,7 @@ Definiamo di seguito una serie di User Story utili a catturare meglio alcuni req
 > - <b> CoS: </b> la visualizzazione deve favorire una chiara lettura di tutte le idee proposte e una valutazione di quelle che un utente vuole accettare, con una chiara visione sull'andamento delle proposte più in voga. La visualizzazione deve distinguere attrazioni turistiche da eventi stabiliti in una data fissa (idee proposte senza data e con data)
 
 ## Name: creazione trip di viaggio
-> - <b> Definizione: </b> un capo viaggio vuole poter generare il trip in base alle scelte effettuate sulle idee proposte e accettare dai vari partecipanti
+> - <b> Definizione: </b> un capo viaggio vuole poter generare il trip in base alle scelte effettuate sulle idee proposte e accettate dai vari partecipanti
 >> - <b> Role: </b> capo viaggio
 >> - <b> Action: </b> generare il trip di viaggio una volta che i partecipanti sono d'accordo sulle attività da effettuare
 >> - <b> Benefit: </b> generazione di un trip globalmente accettato dal gruppo, miglior condivisione dell'itinerario

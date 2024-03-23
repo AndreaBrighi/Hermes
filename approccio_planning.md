@@ -20,7 +20,7 @@ Così come la WBS amplia la RBS, la VBS fornisce un'ulteriore analisi e livello 
 La Issue, nel caso di un approccio Agile, è fondamentale: la issue acquista quindi valore nella pianificazione, non solo in fase di una futura manutenzione: per questo motivo, essendo l'approccio Agile iterativo e incrementale, è necessario tener conto in fase di pianificazione e sviluppo nelle varie fasi anche delle issue aperte e non ancora chiuse, assimilabili come task della VBS.
 
 I concetti che si vanno quindi ad aggiungere al VBS sono:
-- Task: piccoli elementi che compongono una user story, che rappresenta un diario di bordo legato alla precisa storia, per definire quando essa può essere considerata come <it> Done </it>
+- Task: piccoli elementi che compongono una user story, che rappresenta un diario di bordo legato alla precisa storia, per definire quando essa può essere considerata come <it> Done </it>.
 In questo modo riusciamo a definire, per ogni requisito, il ruolo di chi si impersona nella storia, un'azione e un beneficio garantito dal completamento di una determinata user story. Infine, troviamo una Condition of Satisfaction, ovvero come si ritiene completata una determinata user story.
 - Issue: problema riscontrato al termine di ogni ciclo di sviluppo, che può essere uno sprint o il rilascio di un'Alpha release. La issue acquista quindi un valore nella pianificazione della futura quantità di lavoro, che potrebbe aumentare in vista della release successiva. Acquista anche valore per l'utente e la sua esperienza verso l'applicazione.
 
