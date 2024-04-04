@@ -15,7 +15,7 @@ Per poter dare un'ulteriore stima del lavoro da svolgere abbiamo realizzato una 
 <center>
 
 | Story Points  | Stima Giorni/uomo  |
-|---|---|
+|:-------------|:------------------|
 | 1 - 3  |  1 |
 | 4 - 7  |  2 |
 | 8 - 13  | 4  |
