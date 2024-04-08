@@ -23,3 +23,8 @@ Per poter dare un'ulteriore stima del lavoro da svolgere abbiamo realizzato una 
 | 22 - 26       | 8                  |
 | 27 - 31       | 10                 |
 | 31 - 35       | 11                 |
+
+## GANTT dei task
+Di seguito è possibile navigare lo schema GANTT che mostra il planning dei task in relazione ai giorni uomo stimati (sfruttando le stime di cui sopra), mostrando in colonna i singoli task (collegati per precedenza) e nelle righe la durata in termini di start/finish dell'attività.
+Si noti che gli ultimi 3 task (relativi al monitoraggio e pubblicità) sono stimati, in quanto la dipendenza dagli altri task dipende in base ai dati che si vogliono mostrare nei vari cruscotti (come oggetto di monitoraggio quindi). Al momento si considerano solo gli accessi.
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKYDVMVg=/?moveToViewport=2883,2854,2930,2138&embedId=904379601524" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
