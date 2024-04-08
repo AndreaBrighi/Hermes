@@ -1,3 +1,10 @@
+---
+title: Launching details
+layout: home
+parent: Launching
+nav_order: 1
+---
+
 - Assumiamo di suddividere il lavoro di progettazione e sviluppo tra tre team principali, uno per ciascuna area di competenza:
     - Team Backend: 4
     - Team Frontend: 2
