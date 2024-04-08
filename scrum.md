@@ -1,5 +1,5 @@
 ---
-title: SCRUM
+title: SCRUM Management
 layout: home
 parent: Planning
 nav_order: 1
