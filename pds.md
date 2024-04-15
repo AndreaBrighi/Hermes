@@ -113,8 +113,8 @@ Aspetti tecnici:
 - Per decisione di psicologia si sceglie di renderla disponibile in futuro, aggiungendo funzionalità aggiuntive a pagamento (mediante abbonamento o <i>pay only once</i>)
 
 # Assunzioni/Rischi/Ostacoli
-Sono definiti solo assunzioni/ostacoli per la Release #1, gli altri sono presenti nella seguente pagina: <a src="./assunzioni_rischi_ostacoli.html"> link </a>.
-Stessa cosa vale per i rischi: <a src="./risk_management.html"> link </a>.
+Sono definiti solo assunzioni/ostacoli per la Release #1, gli altri sono presenti nella seguente pagina: <a href="./assunzioni_rischi_ostacoli.html"> link </a>.
+Stessa cosa vale per i rischi: <a href="./risk_management.html"> link </a>.
 Di seguito sono elencati solamente quelli relativi ad aspetti tecnici di cui sopra.
 
 ## Rischi
