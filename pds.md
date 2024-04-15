@@ -20,14 +20,14 @@ Etichetta MoSCoW: <b>SHOULD</b>
 Aspetti tecnici:
 - Utilizzo di test A/B per capire i gusti e preferenze degli utenti
 - Design reattivo per maggiore dinamicità con gli utenti
-- Design accessibile per permettere a tutti di usufruire del sistema (COULD)
+- Design accessibile per permettere a tutti di usufruire del sistema (<b>COULD</b>)
 
 ## Login e registrazione utente
 
 Etichetta MoSCoW: <b>MUST</b>
 
 Aspetti tecnici:
-- API gateway per gestire meglio l'inoltro di richieste derivate dall'utilizzo delle API di accesso (SHOULD)
+- API gateway per gestire meglio l'inoltro di richieste derivate dall'utilizzo delle API di accesso (<b>SHOULD</b>)
 - Microservizio per effettuare login e registrazione (SHOULD, alternativa è il server monolitico)
 - Dati criptati e anonimizzati lato server
 - Utilizzo di connessioni criptate (e.g. HTTPS)
@@ -47,13 +47,14 @@ Etichetta MoSCoW: <b>MUST</b>
 Aspetti tecnici:
 - Gestione amicizie con struttura dati tipo grafo efficiente
 - Microservizio dedicato per la gestione delle amicizie
-- Link condivisibile per invitare amici (COULD)
+- Link condivisibile per invitare amici (<b>COULD</b>)
 
 ## Creazione di un gruppo di viaggio
 
 Etichetta MoSCoW: <b>MUST</b>
 
 Aspetti tecnici:
+
 
 ## Suggerimento idee da visitare
 
@@ -94,3 +95,7 @@ Etichetta MoSCoW: <b>COULD</b>
 ## Profilo a pagamento (diversi profili)
 
 Etichetta MoSCoW: <b>WOULD</b>
+
+# Assunzioni/Rischi/Ostacoli
+Sono definiti solo assunzioni/ostacoli per la Release #1, gli altri sono presenti nella seguente pagina: <a src="./assunzioni_rischi_ostacoli.html"> link </a>.
+Stessa cosa vale per i rischi: <a src="./risk_management.html"> link </a>.
