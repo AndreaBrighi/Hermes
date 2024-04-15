@@ -54,48 +54,77 @@ Aspetti tecnici:
 Etichetta MoSCoW: <b>MUST</b>
 
 Aspetti tecnici:
-
+- Microservizio per gestione dei gruppi
 
 ## Suggerimento idee da visitare
 
 Etichetta MoSCoW: <b>SHOULD</b>
+Aspetti tecnici:
+- Microservizio per gestione idee
+- Aggiunta foto/link/puntatori a mappe per maggiore chiarezza (<b>COULD</b>)
 
 ## Votazione e approvazione idee dei partecipanti
 
 Etichetta MoSCoW: <b>MUST</b>
 
+Aspetti tecnici:
+- Visualizzazione voti per ogni idea (<b>COULD</b>)
+- Modifica voto e relativa memorizzazione
+
 ## Creazione del viaggio in automatico
 
 Etichetta MoSCoW: <b>MUST</b>
 
+Aspetti tecnici:
+- Microservizio per gestione viaggio
+- Creazione percorso
+- Ottimizzazione percorso (<b>SHOULD</b>)
+
 ## Modifica del viaggio proposto apportando rifinimenti manuali
 
 Etichetta MoSCoW: <b>SHOULD</b>
 
-## Modifica del viaggio proposto apportando rifinimenti manuali
-
-Etichetta MoSCoW: <b>SHOULD</b>
+Aspetti tecnici:
+- Integrazione col microservizio già presente
+- Ottimizzazione ricalcolo viaggio (<b>COULD</b>)
 
 ## Integrazione con servizi di mappe e routing
 
 Etichetta MoSCoW: <b>COULD</b>
 
-## Integrazione con servizi di mappe e routing
-
-Etichetta MoSCoW: <b>COULD</b>
+Aspetti tecnici:
+- Utilizzo di mappe e algoritmi in-cloud open source (e.g. OpenStreetMap e MapBox)
+- Mappa custom con le informazioni principali facile da navigare (<b>WOULD</b>)
 
 ## Integrazione pubblicità
 
 Etichetta MoSCoW: <b>MUST</b>
 
-## Inizio campagna pubblicitaria al cliente (B2C)
-
-Etichetta MoSCoW: <b>COULD</b>
+Aspetti tecnici:
+- Integrazione con servizi esterni (e.g. Google ADS)
+- Pubblicità non troppo invasiva
 
 ## Profilo a pagamento (diversi profili)
 
 Etichetta MoSCoW: <b>WOULD</b>
 
+Aspetti tecnici:
+- Servizi di pagamento
+- Per decisione di psicologia si sceglie di renderla disponibile in futuro, aggiungendo funzionalità aggiuntive a pagamento (mediante abbonamento o <i>pay only once</i>)
+
 # Assunzioni/Rischi/Ostacoli
 Sono definiti solo assunzioni/ostacoli per la Release #1, gli altri sono presenti nella seguente pagina: <a src="./assunzioni_rischi_ostacoli.html"> link </a>.
 Stessa cosa vale per i rischi: <a src="./risk_management.html"> link </a>.
+Di seguito sono elencati solamente quelli relativi ad aspetti tecnici di cui sopra.
+
+## Rischi
+- Gestione a microservizi potrebbe complicare il design lato server e l'interazione con l'utente
+- Un cattivo design potrebbe portare a un degrado delle performance e peggiorare la manutenibilità
+- Problematiche di sicurezza per gestione dei dati personali
+
+## Assunzioni
+- Creazione di un ambiente database distribuito che vada di pari passo ai microservizi
+- Skill basilari degli utenti nell'utilizzo di un'applicazione (accesso, connessione a internet ecc...)
+
+## Ostacoli
+- Integrazione di servizi di terze parti
