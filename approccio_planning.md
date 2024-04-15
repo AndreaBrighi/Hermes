@@ -43,3 +43,6 @@ Chiaramente il voto personale deve essere influenzato solo dalla propria esperie
 
 ## Gestione Agile
 Si è scelto di utilizzare il sistema software in-cloud <i> Jira </i> per poter gestire il progetto sfruttando la metodologia agile: essa infatti permette di individuare il cosiddetto Product Backlog, ovvero l'insieme delle epiche, user story e task da portare a termine, imporre dei vincoli di precedenza e priorità, assegnare task ai vari membri del progetto, associare descrizioni e story points e tanto altro. Inoltre per ogni task è presente una tabella riepilogativa che mostra la sessione di Planning Poker effettuata per quel preciso task e le considerazioni fatte su di esso.
+
+## Project Definition Statement
+Partendo dal POS definito in fase di scoping, effettuiamo una prioritizzazione dei requisiti con etichettatura <b>MoSCoW</b> (Must, Should, Could, Won't have). Inoltre si specificano ulteriori dettagli tecnici riguardanti gli obiettivi da implementare per la Release #1, considerando e analizzando le release successive in seguito se sarà ritenuto necessario (in base ai criteri di successo).

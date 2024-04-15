@@ -2,7 +2,7 @@
 title: VBS
 layout: home
 parent: Planning
-nav_order: 2
+nav_order: 3
 ---
 
 # Value Breakdown Structure
