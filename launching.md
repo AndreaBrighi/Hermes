@@ -57,3 +57,17 @@ Durante l'assegnazione dei task, nel caso vengano riscontrate criticità o la co
 Altrimenti, nel caso in cui uno o più sviluppatori non riescano a portare a termine i propri task assegnati entro la chiusura dello Sprint, sarà necessario che vengano riportati, durante il meeting, i motivi e le difficoltà che hanno portato a non rispettare la scadenza imposta, in modo che lo Scrum Master possa ripianificare l'assegnamento dei task ed eventuali issue da risolvere. Se necessario, vengono discusse in gruppo le problematiche al fine di essere più rapidi nel trovare soluzioni.
 
 Inoltre, ogni mattina si prevede che ciascun membro del team si incontrino per un periodo massimo di 15 minuti, con l'obiettivo di pianificare la giornata lavorativa e discutere brevemente quella passata, includendo brevi discussioni dei risultati e/o problemi riscontrati e quali saranno le attività che si andranno a svolgere, ed eventualmente chiedere aiuto come già scritto sopra.
+
+# Gestione dei cambiamenti di scope
+Adottando una metodologia di sviluppo Agile, il cambiamento è sempre qualcosa che oltre ad essere accettato, viene incoraggiato. Per questo motivo, si incoraggia ciascun membro a portare a termine i propri assegnamenti in modo attivo, ragionando su possibili evoluzioni o miglioramenti, dando la possibilità di stilare un <b>Project Impact Statement</b> qualora si voglia sottoporre al team un possibile cambiamento. Questo documento va preparato e finalizzato con la collaborazione del Project Manager e discusso durante i meeting, rispondendo a domande generiche e precise su benefici e impatto del cambiamento (a livello di costi e tempi). I cambiamenti vengono anche presi dai suggerimenti e recensioni offerte dagli utenti e dal Focus Group.
+
+Il processo tipico di gestione del cambiamento (Change Management) prevede un'iniziale invio dell'idea in modo formale al Project Manager, che con una veloce review può chiedere di rigettarla o di ampliare la proposta per un'ulteriore analisi durante il prossimo meeting, per valutare impatto e benefici. 
+
+<center>
+<img src="./img/cambiamenti_di_scope.PNG" style="width: 80%;"/>
+</center>
+
+Il cambiamento, se approvato, dovrà essere inserito nel planning dei successivi task da svolgere, quindi sarà fondamentale da decidere in quale Sprint assegnarlo:
+- Se il cambiamento è utile al raggiungimento dello Sprint Goal lo si inserisce nello Sprint attuale, riadattando i task e la quantità di lavoro assegnata
+- Se il cambiamento porta ad un aumento effettivo del business value ma non risulta necessario per lo Sprint corrente, lo si postpone per una release successiva
+- Se il cambiamento è urgente viene inserito nella Sprint attuale con maggiore priorità
