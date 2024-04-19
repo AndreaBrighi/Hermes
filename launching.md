@@ -49,5 +49,11 @@ Per mantenere una buona qualità del codice e documentazione si definiscono una 
     - \> 90%: ottima coverage, da mantenere specialmente nelle ultime fasi del progetto
 - Gestione automatica delle dipedenze e il loro aggiornamento, sfruttando strumenti di Build Automation
 
+## Team Meetings
+Come già descritto in fase di Planning (<a href="./scrum.html">link</a>), durante tutto il processo di sviluppo verranno tenute una moltitudine di meeting, ognuno con il proprio obiettivo da raggiungere.
+Al termine di ciascuno Sprint (circa da 1 a 2 settimane massimo) viene effettuato uno Sprint Review Meeting, al quale è tenuto a partecipare tutti i team che hanno portato a termine dei task, in modo da aggiornare ogni membro dei progressi fatti e dar spazio a discussioni e analisi. Come detto, se si ha approvazione generale, le modifiche possono essere inserite nella linea di sviluppo principale.
+Inoltre vengono analizzate le issue aperte ed eventualmente risolte/non risolte durante lo Sprint, creando nuove issue se ritenuto necessario dopo un analisi approfondita (evitando merge) o l'incontro di criticità in fasi successive di sviluppo.
+Durante l'assegnazione dei task, nel caso vengano riscontrate criticità o la complessità risulta non banale, durante il meeting si suggeriscono alcune soluzioni che possano aiutare lo sviluppatore nel completamento del task.
+Altrimenti, nel caso in cui uno o più sviluppatori non riescano a portare a termine i propri task assegnati entro la chiusura dello Sprint, sarà necessario che vengano riportati, durante il meeting, i motivi e le difficoltà che hanno portato a non rispettare la scadenza imposta, in modo che lo Scrum Master possa ripianificare l'assegnamento dei task ed eventuali issue da risolvere. Se necessario, vengono discusse in gruppo le problematiche al fine di essere più rapidi nel trovare soluzioni.
 
-
+Inoltre, ogni mattina si prevede che ciascun membro del team si incontrino per un periodo massimo di 15 minuti, con l'obiettivo di pianificare la giornata lavorativa e discutere brevemente quella passata, includendo brevi discussioni dei risultati e/o problemi riscontrati e quali saranno le attività che si andranno a svolgere, ed eventualmente chiedere aiuto come già scritto sopra.
