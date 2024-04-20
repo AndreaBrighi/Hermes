@@ -34,7 +34,7 @@ Per la comunicazione e gestione condivisa dei task, dei problemi (Issue) e la co
 ## Versioning
 Per gestire la storia del progetto si utilizzano più repository GitHub (uno per l'applicazione e almeno uno per il backend, in caso di microservizi si usa un repository per microservizio e uno per raggrupparli tutti e testarli), integrato con il già citato tool <i>Jira</i>.
 Lo sviluppo di un task corrisponde alla creazione di un nuovo branch di sviluppo dalla linea di sviluppo principale. Al meeting finale dello Sprint, viene esposto il lavoro svolto e, in accettazione positiva generale, sarà fatto <i>merge</i> del branch con la linea di sviluppo corrente.
-Si mettono in campo tecniche di DevOps per test continui, in particolare ad ogni commit utilizzare procedure di verifica della qualità del codice oltre ai test di correttezza.
+Si mettono in campo tecniche di DevOps per test continui, in particolare ad ogni commit utilizzare procedure di verifica della qualità del codice oltre ai test di correttezza. Viene inoltre fatto uso di Semantic Versioning per etichettare la versione dell'applicazione.
 
 ## Piano di qualità
 Per mantenere una buona qualità del codice e documentazione si definiscono una serie di accorgimenti e strumenti da utilizzare in modo imperativo:
