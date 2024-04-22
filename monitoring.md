@@ -23,3 +23,15 @@ Questa fase può ovviamente essere estesa per l'individuazione e risoluzione di 
 # Issue Log
 Come già evidenziato in fase di Planning, l'uso delle Issue è fondamentale per il planning e il conseguente monitoraggio post-release, includendo tutti quei problemi riscontrati dagli utenti che necessitano di un'aggiornamento in release o patch minori. Sarà necessario uno strumento per la segnalazione dei problemi da parte degli utenti, che verranno convertiti in Issue in <i>Jira</i>, in modo da integrare i due strumenti per avere la lista completa dei problemi riscontrati da risolvere.
 
+# Monitoraggio dei costi
+Essendo una startup, il budget disponibile per l'avvio del progetto è particolarmente ridotto e tutte le risorse fondamentali devono essere acquisite per la prima volta. Nel tentativo di spendere il meno possibile si cerca di ridurre la quantità di spesa necessaria per ogni risorsa ed eventualmente di tempo di utilizzo (come le consulenze). Bisogna tenere in conto le licenze necessarie per lo sviluppo e i componenti hardware necessari sempre per sviluppo e testing dell'applicazione, creando un inventario di tutta l'infrastruttura (hardware e software) presente.
+Al fine di ridurre le spese necessarie si crea un account per un servizio di Cloud hosting che verrà ampliato nel numero di servizi e livello di qualità nel tempo in base alle esigenze, ai fondi disponibili e allo stato di avanzamento del progetto.
+
+# Gestione dei report di controllo
+Lo strumento principale utilizzato in fase di pianificazione e di sviluppo degli Sprint è <i>Jira</i>. A seguito di uno Sprint Meeting si può estendere la descrizione di ciascun task ed eventualmente realizzare una scaletta sotto forma di checklist, da assegnare poi ai membri del team, per aiutarli nel completamento del task. Questo strumento rende possibile visionare lo stato di avanzamento di ciascun task, e più in generale la presenza di task permette di comprendere lo stato di avanzamento dello sprint in sviluppo.
+Lo stato dei task viene espresso tramite etichetta:
+- To Do: il task è in attesa di essere assegnato e quindi ancora da iniziare
+- In Progress: il task è stato assegnato è in attesa di esser portato a termine
+- Done: il task è da considerare completato
+Come già descritto, è possibile creare una serie di dipendenze tra task, mentre una User Story si considera completata quando tutti i suoi task sono portati a termine correttamente. La stessa cosa vale per le Issue.
+Inoltre, se si ritiene necessario, è possibile aggiungere etichette custom per dare più espressività e significato allo stato di ciascun task.
