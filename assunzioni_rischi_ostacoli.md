@@ -10,7 +10,7 @@ nav_order: 4
     - Conoscenza di frontend, programmazione mobile
     - Alto problem solving e relazioni all'interno del team
 
-- Si assume la necessità di un organico composto da almeno 10 persone per gestire lo sviluppo del sistema nella sua prima release
+- Si assume la necessità di un organico composto da almeno 8 persone per gestire lo sviluppo del sistema nella sua prima release
  
 - Si suppone che la pubblicità in app o web fornisca almeno 4€/h in media per ogni utente
 

@@ -5,7 +5,7 @@ parent: Approccio
 nav_order: 2
 ---
 # Descrizione dell'approccio utilizzato per la fase di Planning
-Subito dopo aver concluso la fase di scoping, si procede alla stesura della seconda fase di analisi che è il planning. Come primo step si completa lo schema di Event Storming realizzato organizzando i vari gruppi di dominio in differenti Bounded Context, che permettono di definire dei contesti indipendenti tra loro su cui i team lavorano in contemporanea (questa è solo una divisione a livello di dominio e non di piattaforme, in quanto backend o frontend rimangono team differenti).
+Subito dopo aver concluso la fase di scoping, si procede alla stesura della seconda fase di analisi che è il planning. Come primo step si completa lo schema di Event Storming realizzato organizzando i vari gruppi di dominio in differenti <b>Bounded Context</b>, che permettono di definire dei contesti indipendenti tra loro su cui i team lavorano in contemporanea (questa è solo una divisione a livello di dominio e non di piattaforme, in quanto backend o frontend rimangono team differenti).
 Una User Story può coinvolgere più Bounded Context, quindi di fatto può coinvolgere più team, questo è il motivo del dividerli in task.
 
 ## Value Breakdown Structure
